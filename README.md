@@ -1,3 +1,5 @@
+![WhatsApp Image 2025-02-22 at 21 54 04_9c99dc12](https://github.com/user-attachments/assets/beb0a6df-9d07-4af5-beae-c805323f63b6)
+
 # Foss-Hackathon
 Repo for Team Error404.
 
